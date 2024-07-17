@@ -1,0 +1,8 @@
+licenseVenv/
+__pycache__/
+bin/
+include/
+lib/
+share/
+.cfg/
+.DS_Store
