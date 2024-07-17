@@ -1,31 +1,3 @@
-AUTOMATIC LICENSE PLATE DETECTOR
-=====
-
-Automatically detect and run license plates using your car. Make policing easier and our roads safer. Check out the demo on [link here]
-
-By Zaid Nissar
-
-### Introduction 
-
-AND is a novel deep learning based approach for detecting and running license plates. 
-
-
-### Dependencies: 
-To install required dependencies run:
-```
-pip install -r requirements.txt
-```
-
-### How to RUN it? 
-Simply run: 
-
-```
-python live_cap.py
-```
-
-### Want to use it properly?
-Reach out to me and discuss how we can implement AND for your requirements. 
-
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License with an additional clause for commercial use.
